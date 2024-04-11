@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.sock8",
+            "sha256_cert_fingerprints": [
+                "F6:57:33:C2:DE:44:DE:24:9D:DB:52:65:FE:C5:10:11:EF:8F:23:2A:B2:6D:08:FE:04:F3:A1:BA:BA:41:92:8F",
+                "63:D2:45:AA:36:3D:A3:50:60:0B:5C:B1:C1:DD:F8:89:01:A5:11:A6:4E:55:83:05:57:60:7C:34:9F:B8:78:BE"
+            ]
+        }
+    }
+]
